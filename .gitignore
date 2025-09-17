@@ -34,3 +34,6 @@ out/
 .classpath
 .project
 .settings/
+
+# Automated scripts for me
+build.bat

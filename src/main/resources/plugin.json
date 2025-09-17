@@ -1,7 +1,7 @@
 {
   "id": "uuidredirect",
   "name": "UUID Redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redirects certain UUIDs to specific servers.",
   "authors": ["OwenOsborne"],
   "main": "https://github.com/pebos/UUIDRedirect"

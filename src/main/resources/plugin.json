@@ -1,0 +1,8 @@
+{
+  "id": "uuidredirect",
+  "name": "UUID Redirect",
+  "version": "1.0.0",
+  "description": "Redirects certain UUIDs to specific servers.",
+  "authors": ["OwenOsborne"],
+  "main": "com.example.redirect.RedirectPlugin"
+}

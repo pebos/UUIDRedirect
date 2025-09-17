@@ -1,6 +1,7 @@
 package com.example.redirect;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.google.inject.Inject;
 import com.velocitypowered.api.event.Subscribe;
@@ -33,7 +34,7 @@ public class RedirectPlugin {
     private final Map<String, ConfigEntry> usernameMap = new HashMap<>(); // lowercase username -> entry
     private final Path pluginFolder = Path.of("plugins/UUIDRedirect");
     private final Path configPath = pluginFolder.resolve("config.json");
-    private final Gson gson = new Gson();
+    private final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
     @Inject
     public RedirectPlugin(ProxyServer proxyServer) {

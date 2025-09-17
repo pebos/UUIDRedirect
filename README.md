@@ -1,6 +1,7 @@
 # UUIDRedirect
 
 **UUIDRedirect** is a Velocity proxy plugin that automatically redirects players with specific UUIDs (and/or usernames) to designated servers. It also prevents redirected players from switching to other servers.
+Known to work with velocity 3.4.0-SNAPSHOT, build 533
 
 ## Features
 

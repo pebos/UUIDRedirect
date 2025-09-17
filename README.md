@@ -25,9 +25,6 @@ The configuration file `config.json` maps player UUIDs (or usernames if UUID is 
   "11111111-1111-1111-1111-111111111111": {
     "username": "ExamplePlayer",
     "server": "survival"
-  },
-  "": {
-    "username": "NameOnlyPlayer",
-    "server": "lobby"
   }
 }
+

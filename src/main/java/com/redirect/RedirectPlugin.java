@@ -22,7 +22,7 @@ import java.util.UUID;
 @Plugin(
         id = "uuidredirect",
         name = "UUID Redirect",
-        version = "1.0.4",
+        version = "1.0.0",
         description = "Redirects specific UUIDs or usernames to pre-registered Velocity servers and prevents switching",
         authors = {"Owen Osborne"}
 )

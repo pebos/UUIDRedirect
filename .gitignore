@@ -26,6 +26,8 @@ replay_pid*
 # Gradle
 /build/
 /.gradle/
+build.bat
+build.log
 
 # IntelliJ / Eclipse
 .idea/
@@ -34,6 +36,3 @@ out/
 .classpath
 .project
 .settings/
-
-# Automated scripts for me
-build.bat

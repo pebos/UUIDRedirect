@@ -13,9 +13,10 @@ Known to work with velocity 3.4.0-SNAPSHOT, build 533.
 
 ## Installation
 
-1. Place the `UUIDRedirect.jar` file in your Velocity `plugins` folder.
-2. Start Velocity to generate the default configuration file: `plugins/UUIDRedirect/config.json`.
-3. Stop Velocity and edit `config.json` to configure your redirects.
+1. Download the latest jar [here](https://hangar.papermc.io/logo23456/UUIDRedirect)
+2. Place the `UUIDRedirect.jar` file in your Velocity `plugins` folder.
+3. Start Velocity to generate the default configuration file: `plugins/UUIDRedirect/config.json`.
+4. Stop Velocity and edit `config.json` to configure your redirects.
 
 ## Configuration
 
